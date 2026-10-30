@@ -1,4 +1,4 @@
-# 📄 Resume Analyzer
+## 📄 Resume Analyzer
 
 A Python-based web application that analyzes how closely a resume matches a given job description using Natural Language Processing (NLP), TF-IDF vectorization, and Cosine Similarity.
 
