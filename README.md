@@ -10,7 +10,7 @@ The application is built with Streamlit to provide a simple and interactive web 
 
 ## ✨ Features
 
-- Upload a resume in PDF format
+- Upload a resume in any file format
 - Extract text from PDF resumes
 - Clean and preprocess text
 - Remove common English stopwords
